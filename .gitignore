@@ -1,0 +1,4 @@
+node_modules/
+bot-protocol-state.json
+*.log
+.DS_Store

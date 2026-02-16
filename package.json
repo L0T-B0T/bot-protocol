@@ -1,0 +1,16 @@
+{
+  "name": "bot-protocol",
+  "version": "0.1.0",
+  "description": "Structured messaging protocol for bot-to-bot communication",
+  "main": "lib/parser.js",
+  "scripts": {
+    "test": "node tests/run-tests.js"
+  },
+  "dependencies": {
+    "nanoid": "^3.3.7"
+  },
+  "devDependencies": {},
+  "keywords": ["bot", "protocol", "messaging", "openclaw"],
+  "author": "OpenClaw Community",
+  "license": "MIT"
+}
